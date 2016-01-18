@@ -4,8 +4,8 @@ Editing
 No. | 组合键 | 描述 
 --- | --- | ---| ---
 1 | ⌃Space | Basic code completion (the name of any class, method or variable) |
-2 | ⌘⇧⏎ | 补全语句 |
-3 | ⌘P | 显示参数信息 |
+2 | ⌘⇧⏎ | Complete statement |
+3 | ⌘P | Parameter info (within method call arguments) |
 4 | ⌃J or Mid. button click | Quick documentation lookup |
 5 | ⌘ + mouse over code | Brief Info |
 6 | ⌘F1 | Show descriptions of error or warning at caret |

@@ -1,15 +1,15 @@
-PhpStorm For Mac默认快捷键参考。
+PhpStorm-Keymap-Mac
 ===
 
-> Mac上快捷键使用参考文档。
+> PhpStorm For Mac Default Keymap Reference.
 
-### 符号注释
+### Symbol annotation
 1 | 2 | 3 | 4 | 5 | 6 
 --- | --- | --- | ---| --- | ---
 ⌘ Command | ⎋ Escape | ⏎ Enter / Return | ⌥ Option / Alt | ⌃ Control | ⌦ Backspace |
 ⌫ Delete | ⇧ Shift | ⇪ CapsLock | ⇥ Tab | ⇵ Arrow keys | ⇆ |
 
-### 模块
+### Module
 
 - [Editing](./editing.md)
 - [Search/Replace](./search-replace.md)

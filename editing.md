@@ -1,7 +1,6 @@
 Editing
 ===
 
-
 No. | 组合键 | 描述 
 --- | --- | ---| ---
 1 | ⌃Space | Basic code completion (the name of any class, method or variable) |
@@ -21,10 +20,22 @@ No. | 组合键 | 描述
 15 | ⌃⇧Q | Context info |
 16 | ⌥⏎ | Show intention actions and quick-fixes |
 17 | ⌘⌥L | Reformat code |
-17 | ⌃⌥I | Auto-indent line(s) |
-17 | ⌘⌥L | Reformat code |
-17 | ⌘⌥L | Reformat code |
-17 | ⌘⌥L | Reformat code |
-17 | ⌘⌥L | Reformat code |
-17 | ⌘⌥L | Reformat code |
-17 | ⌘⌥L | Reformat code |
+18 | ⌃⌥I | Auto-indent line(s) |
+19 | ⇥,⇧⇥ | Indent/unindent selected lines |
+20 | ⌘X | Cut current line or selected block to clipboard |
+21 | ⌘C | Copy current line or selected block to clipboard |
+22 | ⌘V | Paste from clipboard |
+23 | ⌘⇧V | Paste from recent buffers... |
+24 | ⌘D | Duplicate current line or selected block |
+25 | ⌘⌫ | Delete line at caret |
+26 | ⌃⇧J | Join lines |
+27 | ⌘⏎ | Split line |
+28 | ⇧⏎ | Start new line |
+29 | ⌘⇧U | Toggle case for word at caret or selected block |
+30 | ⌘⇧],⌘⇧[ | Select till code block end/start |
+31 | ⌥⌦ | Delete to word end |
+32 | ⌥⌫ | Delete to word start |
+33 | ⌘+,⌘- | Expand/collapse code block |
+34 | ⌘⇧+ | Expand all |
+35 | ⌘⇧- | Collapse all |
+36 | ⌘W | Close active editor tab |

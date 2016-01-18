@@ -32,3 +32,4 @@ PhpStorm For Mac默认快捷键参考。
 ### 模块
 
 - [Editing](./editing.md)
+- [Search/Replace](./search-replace.md)

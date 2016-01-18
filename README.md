@@ -5,7 +5,7 @@ PhpStorm For Mac默认快捷键参考。
 
 ### 符号注释
 1 | 2 | 3 | 4 | 5 | 6 
---| -- | --- | ---| --- | ---
+--- | --- | --- | ---| --- | ---
 ⌘ Command | ⎋ Escape | ⏎ Enter / Return | ⌥ Option / Alt | ⌃ Control | ⌦ Backspace |
 ⌫ Delete | ⇧ Shift | ⇪ CapsLock | ⇥ Tab | ⇵ Arrow keys | ⇆ |
 
@@ -13,3 +13,5 @@ PhpStorm For Mac默认快捷键参考。
 
 - [Editing](./editing.md)
 - [Search/Replace](./search-replace.md)
+- [Search/Replace](./usage-search.md)
+- [Search/Replace](./running.md)

@@ -1,6 +1,7 @@
-PhpStorm 默认快捷键参考。
+PhpStorm For Mac默认快捷键参考。
 ===
-> PhpStorm For Mac默认快捷键参考。
+
+> Mac上快捷键使用参考文档。
 
 ### 符号注释
 

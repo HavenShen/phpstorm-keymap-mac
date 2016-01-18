@@ -13,5 +13,5 @@ PhpStorm For Mac默认快捷键参考。
 
 - [Editing](./editing.md)
 - [Search/Replace](./search-replace.md)
-- [Search/Replace](./usage-search.md)
-- [Search/Replace](./running.md)
+- [USage Search](./usage-search.md)
+- [Running](./running.md)

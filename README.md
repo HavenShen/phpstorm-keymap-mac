@@ -15,3 +15,8 @@ PhpStorm-Keymap-Mac
 - [Search/Replace](./search-replace.md)
 - [USage Search](./usage-search.md)
 - [Running](./running.md)
+- [Debugging](./debugging.md)
+- [Navigation](./navigation.md)
+- [Refactoring](./refactoring.md)
+- [VCS/Local History](./vcs-local-history.md)
+- [General](./general.md)

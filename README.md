@@ -3,7 +3,7 @@ PhpStorm-Keymap-Mac
 
 > PhpStorm For Mac 默认快捷键参考.
 
-> 准备翻译中文...
+> 欢迎star,准备译通俗易懂的中文...
 
 ### 符号注释
 1 | 2 | 3 | 4 | 5 | 6 

@@ -2,7 +2,7 @@ Navigation
 ===
 
 No. | 组合键 | 描述 
---- | --- | ---| ---
+--- | --- | ---
 1 | ⌘O | Go to class |
 2 | ⌘⇧O | Go to file |
 3 | ⌘⌥O | Go to symbol |

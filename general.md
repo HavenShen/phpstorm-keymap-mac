@@ -2,7 +2,7 @@ General
 ===
 
 No. | 组合键 | 描述 
---- | --- | ---| ---
+--- | --- | ---
 1 | ⇧⌘A | Find Action |
 2 | ⌘0...⌘9 | Open corresponding tool window |
 3 | ⌘⇧F12 | Toggle maximizing editor |

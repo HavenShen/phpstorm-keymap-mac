@@ -2,7 +2,7 @@ Running
 ===
 
 No. | 组合键 | 描述 
---- | --- | ---| ---
+--- | --- | ---
 1 | ⌃⌥R | Select configuration and run |
 2 | ⌃⌥D | Select configuration and debug |
 3 | ⌃R | Run |

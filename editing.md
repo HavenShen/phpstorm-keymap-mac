@@ -2,7 +2,7 @@ Editing
 ===
 
 No. | 组合键 | 描述 
---- | --- | ---| ---
+--- | --- | ---
 1 | ⌃Space | Basic code completion (the name of any class, method or variable) |
 2 | ⌘⇧⏎ | Complete statement |
 3 | ⌘P | Parameter info (within method call arguments) |
